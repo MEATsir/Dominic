@@ -1,0 +1,10 @@
+python3.8
+pkuseg0.0.25
+numpy1.18.5
+tqdm4.47.0
+pytorch1.6.0
+xlrd1.2.0
+xlwt1.3.0
+xlutils2.0.0
+pyqt5.9.2
+qtawesome1.0.3
